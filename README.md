@@ -4,7 +4,6 @@ This sample explains how to connect to and configure your Azure bot service in a
 ## Sample
 
 ```xaml
-
     public class BotService
     {
         private HttpClient httpClient;
