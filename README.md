@@ -219,8 +219,6 @@ This sample explains how to connect to and configure your Azure bot service in a
 
 ```
 
-See [How to load Xamarin.Forms SfListView with background image?](https://www.syncfusion.com/kb/9479/how-to-load-listview-with-background-image) for more details.
-
 ## Requirements to run the demo
 
 To run the demo, refer to [System Requirements for Xamarin](https://help.syncfusion.com/xamarin/system-requirements)
