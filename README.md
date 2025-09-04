@@ -223,8 +223,7 @@ See [How to load Xamarin.Forms SfListView with background image?](https://www.sy
 
 ## Requirements to run the demo
 
-* [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/)
-* Xamarin add-ons for Visual Studio (available via the Visual Studio installer).
+To run the demo, refer to [System Requirements for Xamarin](https://help.syncfusion.com/xamarin/system-requirements)
 
 ## Troubleshooting
 
